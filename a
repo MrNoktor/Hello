@@ -1,0 +1,29 @@
+[33mcommit c6c0ef1d868659a3171ac5647049646f148834c2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Nanad <omnibor@gmail.com>
+Date:   Mon Sep 26 17:23:20 2022 +0300
+
+    HUI
+
+[33mcommit 523db5b87a8ca78aa1003ff29cd1d32145ec333a[m
+Author: Nanad <omnibor@gmail.com>
+Date:   Mon Sep 26 16:49:31 2022 +0300
+
+    Added HTML header
+
+[33mcommit e23846d011be9e48352cae0471c34d3853b77f92[m
+Author: Nanad <omnibor@gmail.com>
+Date:   Mon Sep 26 16:46:19 2022 +0300
+
+    Added standart HTML page tags
+
+[33mcommit 9d228efc52d28aefeacb370a9a99030d67414cd5[m
+Author: Nanad <omnibor@gmail.com>
+Date:   Mon Sep 26 16:27:52 2022 +0300
+
+    Added h1 tag
+
+[33mcommit 326efc7d39429665f407cc2877bc5e3a1f6b9c50[m
+Author: Nanad <omnibor@gmail.com>
+Date:   Mon Sep 26 16:12:53 2022 +0300
+
+    First Commit
